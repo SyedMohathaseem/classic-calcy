@@ -9,7 +9,7 @@ arr.forEach(button =>{
             string =eval(string);
             input.value = string;
         }
-        else if(e.target.innerHTML == 'Clr'){
+        else if(e.target.innerHTML == 'Af'){
             string="";
             input.value=string
         }
